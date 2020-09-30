@@ -1,0 +1,7 @@
+arise,arisen
+awake,awoken
+be,been
+bear,born
+beat,beaten
+become,become
+begin,begun

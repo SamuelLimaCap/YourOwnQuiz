@@ -1,0 +1,14 @@
+arise,arose
+awake,awoke
+be,was
+bear,bore
+beat,beat
+become,became
+begin,began
+bend,bent
+bet,bet
+bind,bound
+bite,bit
+bleed,bled
+blow,blew
+break,broke
